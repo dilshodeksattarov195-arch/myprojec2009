@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrpdate",
+        "uuid": 10408629,
+        "checksum": "y114pf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
